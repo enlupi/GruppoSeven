@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Final Projects for Laboratory of Computational Physics
 
 In each of the branches of this repo you find all the necessary to complete your final project.
@@ -15,3 +16,8 @@ A Virtual Machine within [CloudVeneto](http://cloudveneto.it/) can be created fo
 
 Alternatively, students can use [colab](https://colab.research.google.com/) (for which though no instructions are provided here).
 
+=======
+# GruppoSeven
+Ao
+Daje
+>>>>>>> c5a62fcc7efda18fde152655d9b6a2bd0e2b5431

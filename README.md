@@ -23,7 +23,7 @@ The data is provided in .txt files. During this study two healthy subjects were 
 This is the first mandatory file:
 
 - center_sternum.txt: MuSe placed on the center of the sternum. The subject was lying supine on his left and right side, respectively.
-- 
+
 Choose one of the following files in order to complete the task:
 
 1. 1_Stave_supine_static.txt: Sensor placed on a bed stave, under the mattress at the level of the chest. The subject was lying supine on his left and right side.
